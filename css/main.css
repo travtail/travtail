@@ -1167,6 +1167,15 @@ h1, h2, h3, h4, h5, h6 {
   background-color: #e66686;
 }
 
+.single-item {
+	height: 250px;
+}
+
+.single-gallery {
+padding: 15px
+}
+
+
 .single-gallery-image {
   margin-top: 30px;
   background-repeat: no-repeat !important;
