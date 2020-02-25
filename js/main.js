@@ -85,7 +85,7 @@ $(document).ready(function(){
                 items: 2,
             },
             900: {
-                items: 6,
+                items: 4,
             }
 
         }
