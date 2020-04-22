@@ -90,7 +90,23 @@ input[type="radio"],
 input[type="checkbox"] {
   margin: 0 4px 8px 0;
 }
+.t {
+  display: table;
+  width: 100%;
+  height: auto;
+}
 
+ul {
+  display: table-row
+}
+
+li {
+  display: table-cell
+}
+
+iframe {
+  display: block;
+}
 select {
   padding: 6px;
   height: 32px;
