@@ -112,6 +112,8 @@ select {
   height: 32px;
   border-radius: 2px;
 }
+.graphic-container.wide.left { float:left; }
+.graphic-container.wide.right { clear:right; }
 
 button {
   padding: 19px 39px 18px 39px;
