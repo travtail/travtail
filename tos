@@ -1,0 +1,192 @@
+	<!DOCTYPE html>
+	<html lang="zxx" class="no-js">
+	<head>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-163795218-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-163795218-1');
+</script>
+
+		<!-- Mobile Specific Meta -->
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<!-- Favicon-->
+		<link rel="shortcut icon" href="img/elements/fav.png">
+		<!-- Author Meta -->
+		<meta name="author" content="CodePixar">
+		<!-- Meta Description -->
+		<meta name="description" content="">
+		<!-- Meta Keyword -->
+		<meta name="keywords" content="">
+		<!-- meta character set -->
+		<meta charset="UTF-8">
+		<!-- Site Title -->
+		<title>Terms of Service</title>
+
+		<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
+			<!--
+			CSS
+			============================================= -->
+			<link rel="stylesheet" href="css/linearicons.css">
+			<link rel="stylesheet" href="css/owl.carousel.css">
+			<link rel="stylesheet" href="css/font-awesome.min.css">
+			<link rel="stylesheet" href="css/nice-select.css">			
+			<link rel="stylesheet" href="css/magnific-popup.css">
+			<link rel="stylesheet" href="css/bootstrap.css">
+			<link rel="stylesheet" href="css/main.css">
+		</head>
+		<body>
+			<!-- Start banner Area -->
+			<section class="generic-banner relative">
+			<!-- Start Header Area -->
+				<header class="default-header">
+					<nav class="navbar navbar-expand-lg  navbar-light">
+						<div class="container">
+							  <a class="navbar-brand" href="index.html">
+							  	<img src="img/logo.png" alt="">
+							  </a>
+							  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+							    <span class="text-white lnr lnr-menu"></span>
+							  </button>
+
+						 <div class="collapse navbar-collapse justify-content-end align-items-center" id="navbarSupportedContent">
+							    <ul class="navbar-nav">
+									<li><a href="index.html#footer">ABOUT</a></li>
+									<li><a style="white-space: nowrap;" href="index.html#services">WHY SELL ON Travtail?</a></li>
+								   	 <!-- Dropdown -->
+								   	 <li class="dropdown">
+								    	  <a class="dropdown-toggle" style="white-space: nowrap;" href="#" id="navbardrop" data-toggle="dropdown">
+								        SELL ON Travtail
+								     	 </a>
+								      <div class="dropdown-menu">
+									<a class="dropdown-item" href="stores.html">STORES</a>
+									<a class="dropdown-item" href="services.html">SERVICES</a>
+								        <a class="dropdown-item" href="https://mailchi.mp/3638266f0110/travtail">SIGNUP TO SELL</a>
+								       </div>
+										</li>
+									<li><a href="index.html#locations">LOCATIONS</a></li>
+									<li><a href="index.html#gallery">BRANDS</a></li>
+									<li><a href="faq.html">FAQS</a></li>
+									<li><a href="index.html#contact">CONTACT</a></li>
+									
+										</ul>
+										</div>
+										</div>
+					</nav>
+				</header>
+				<!-- End Header Area -->
+
+<!-- Start of banner Area -->				
+				<<div class="container">
+					<div class="row height align-items-center justify-content-center">
+						<div class="col-lg-10">
+							<div class="generic-banner-content">
+								<h2 class="text-white">  Frequently Asked Questions. </h2>
+								<p class="text-white">If your question is not covered below, send an email to contact@travtail.com. We'll respond in 24hrs. </p>
+							</div>
+						</div>
+					</div>
+				</div>	
+			<!-- End banner Area -->
+		
+		<!-- Start faq Area -->
+			<section class="faq-area section-gap" id="TOS">
+				<div class="container">
+					<div class="row d-flex justify-content-center">
+						<div class="menu-content pb-60 col-lg-8">
+							<div class="title text-center">
+								<h1 class="mb-10">Terms of Service</h1>
+							</div>
+						</div>
+					</div>							
+					<div class="faq-content col-lg-12 col-md-12">
+					
+					<div class="single-faq">
+								<h2 class="text-uppercase">
+									What is Travtail?
+								</h2>
+								<p>
+									Travtail provides software and hardware that enables short-term rental owners, entrepreneurs, rideshare drivers, craftpersons, service providers, enterpreneurs, hotels, consumer brands, and small & large business to sell products and services to 2B+ travelers and other customers. We have stores that cater for different locations (Short-Term Rentals, Uber/Lyft/Taxi, Motels, Hotels, Apartment Complexes, Shopping Mall etc.)  and provide our clients with all the tools they need to succeed.</p>
+							</div>					
+						</div>									
+					</div>
+				</div>
+			</section>
+			<!-- End faq Area -->
+				<!-- start footer Area -->		
+			<footer class="footer-area section-gap">
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-5 col-md-6 col-sm-6">
+							<div class="single-footer-widget">
+								<h6>About Us</h6>
+								<p align="left">
+								Travtail builds unmanned retail and on-demand services solutions for the world’s on-demand economy. Our products enable customers to get essential products and services right now, not tomorrow or next week. Our vision is to be the world’s first end-to-end convenience services company.<br> 
+								</p>
+								<p align="left">
+								We are building commerce tools (software, hardware) that will enable our clients (rental property owners, rideshare drivers, property/leasing managers, hotels/motels and micro-entrepreneurs) to sell essential products and enable their customers to find essential services in less than 30s.<br> 
+								</p>
+								
+								<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+            		<p class="footer-text">Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved.
+							</div>
+						</div>
+						<div class="col-lg-5  col-md-6 col-sm-6">
+							<div class="single-footer-widget">
+								<h6>Newsletter</h6>
+								<p>Stay updated with our latest news</p>
+								<div class="" id="mc_embed_signup">
+
+										<form target="_blank" novalidate="true" action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01" method="get" class="form-inline">
+
+										<div class="d-flex flex-row">
+
+											<input class="form-control" name="EMAIL" placeholder="Enter Email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Email '" required="" type="email">
+
+
+				                            	<button class="click-btn btn btn-default"><i class="fa fa-long-arrow-right" aria-hidden="true"></i></button>
+				                            	<div style="position: absolute; left: -5000px;">
+													<input name="b_36c4fd991d266f23781ded980_aefe40901a" tabindex="-1" value="" type="text">
+												</div>
+				                          	
+											<!-- <div class="col-lg-4 col-md-4">
+												<button class="bb-btn btn"><span class="lnr lnr-arrow-right"></span></button>
+											</div>  -->
+										</div>		
+										<div class="info"></div>
+										</form>
+								</div>
+								</div>
+						</div>						
+						<div class="col-lg-2 col-md-6 col-sm-6 social-widget">
+							<div class="single-footer-widget">
+								<h6>Follow Us</h6>
+								<p>Let us be social</p>
+								<div class="footer-social d-flex align-items-center">
+									<a href="https://fb.me/travtail/"><i class="fa fa-facebook"></i></a>
+									<a href="https://twitter.com/travtail"><i class="fa fa-twitter"></i></a>
+									<a href="https://www.instagram.com/travtail.ai/"><i class="fa fa-instagram"></i></a>
+									<a href="https://medium.com/@travtail"><i class="fa fa-medium"></i></a>
+								</div>
+							</div>
+						</div>							
+					</div>
+				</div>
+			</footer>	
+			<!-- End footer Area -->	
+
+
+			<script src="js/vendor/jquery-2.2.4.min.js"></script>
+			<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
+			<script src="js/vendor/bootstrap.min.js"></script>
+			<script src="js/owl.carousel.min.js"></script>
+			<script src="js/jquery.sticky.js"></script>
+			<script src="js/jquery.nice-select.min.js"></script>			
+			<script src="js/parallax.min.js"></script>
+			<script src="js/jquery.magnific-popup.min.js"></script>
+			<script src="js/main.js"></script>	
+		</body>
+	</html>
